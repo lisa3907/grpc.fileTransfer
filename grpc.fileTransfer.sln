@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1D931C29-37D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "grpc.client", "src\grpc.client\grpc.client.csproj", "{E94768EE-B399-49C9-B2F4-91B3AE886BC2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "grpc.server", "src\dlpp.server\grpc.server.csproj", "{7F4B672F-635D-4826-8B89-3323908335B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "grpc.server", "src\grpc.server\grpc.server.csproj", "{7F4B672F-635D-4826-8B89-3323908335B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
